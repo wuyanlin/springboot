@@ -43,7 +43,7 @@ public class CommUtil {
 		return false;
 	}
 	/**
-	 * 判断对象是否为NotEmpty(!null或元素>0)<br>
+	 * 判断对象是否为NotEmpty(!null或元素&gt;0)<br>
 	 * 实用于对如下对象做判断:String Collection及其子类 Map及其子类
 	 *
 	 * @param pObj
