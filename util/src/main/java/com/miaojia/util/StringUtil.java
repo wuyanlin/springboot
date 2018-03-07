@@ -8,7 +8,7 @@ import java.util.List;
 public class StringUtil {
 	/**
 	 * 根据切分大小进行换行
-	 * @param str
+	 * @param str 要切分的字符串
 	 * @param size 要切分的大小
 	 * @return String 换行结果
 	 */
